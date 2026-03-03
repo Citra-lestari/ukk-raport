@@ -1,0 +1,18 @@
+================ HASIL RAPOT ================
+Nama    : ni wayan citra
+NIS     : 23971
+Kelas   : XII RPL 2
+Sekolah : SMKN 1 Denpasar
+
+---------------------------------------------------------------
+| No  | Mata Pelajaran       | Nilai | Status       |
+---------------------------------------------------------------
+| 1   | B. Inggris           | 89    | Lulus        |
+| 2   | B. Bali              | 90    | Lulus        |
+| 3   | B. Indonesia         | 98    | Lulus        |
+| 4   | Pemrograman          | 88    | Lulus        |
+| 5   | Basis Data           | 90    | Lulus        |
+============================================================
+Rata-rata : 91.00
+Predikat  : A
+============================================================

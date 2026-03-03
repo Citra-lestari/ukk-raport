@@ -1,0 +1,18 @@
+================ HASIL RAPOT ================
+Nama    : citra les
+NIS     : 1928
+Kelas   : xii rpl 2
+Sekolah : smkn 1 denpasar
+
+---------------------------------------------------------------
+| No  | Mata Pelajaran       | Nilai | Status       |
+---------------------------------------------------------------
+| 1   | B. Inggris           | 91    | Lulus        |
+| 2   | B. Bali              | 9     | Tidak Lulus  |
+| 3   | B. Indonesia         | 70    | Tidak Lulus  |
+| 4   | Pemrograman          | 70    | Tidak Lulus  |
+| 5   | Basis Data           | 90    | Lulus        |
+============================================================
+Rata-rata : 66.00
+Predikat  : D
+============================================================

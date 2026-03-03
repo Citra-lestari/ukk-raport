@@ -1,0 +1,17 @@
+================ HASIL RAPOT =================
+Nama     : citra lestari
+NIS      : 21450
+Kelas    : XII RPL 2
+Sekolah  : SMKN 1 Denpasar
+
+-----------------------------------------------------------
+| Mata Pelajaran       | Nilai  | Status       |
+-----------------------------------------------------------
+| Bahasa Inggris       | 97     | Lulus        |
+| Bahasa Bali          | 56     | Tidak Lulus  |
+| Bahasa Indonesia     | 66     | Tidak Lulus  |
+| Pemrograman          | 99     | Lulus        |
+| Basis Data           | 100    | Lulus        |
+-----------------------------------------------------------
+Rata-rata : 83.60
+Predikat  : B

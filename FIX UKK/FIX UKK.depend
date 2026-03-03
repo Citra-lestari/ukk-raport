@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772092484 source:c:\users\citra\onedrive\documents\tugas smk\bahasa c\fix ukk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
